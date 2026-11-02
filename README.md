@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Science & Economics @ University of Missouri</b><br/>
-  I build software and AI-powered tools, often for finance, that turn messy data into clear decisions.
+  I build software and AI-driven workflows that turn messy data into clear decisions.
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@
 
 ### What I'm interested in
 
-- 🤖 **Applied AI:** building products on top of LLMs, from automation and retrieval to AI-assisted tools people actually use
+- 🤖 **AI-driven workflows:** automating real, repetitive work with LLMs and agents, from data cleanup to end-to-end processes people actually rely on
 - 🛠️ **Software engineering:** full-stack web apps and well-tested, reliable backend systems
 - 💸 **Fintech:** software that makes financial work faster and more accurate
 
