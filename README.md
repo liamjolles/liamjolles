@@ -15,7 +15,7 @@
 
 ### About me
 
-- 💻 **Software Engineer Intern** at **Finance|able**, building a finance career-training platform
+- 💻 **Software Engineer Intern** at **Finance|able**, building a high finance career-training platform
 - 📈 Former **Summer Analyst** at **Frontier Investment Bank**, where I built financial statement and merger models
 - 🧮 Member of **TigerQuant** (quantitative trading simulations) and **UMIG**, the University of Missouri Investment Group
 - 🎓 B.S. Computer Science & Economics, May 2028 · 3.97 GPA
