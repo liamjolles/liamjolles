@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Science & Economics @ University of Missouri</b><br/>
-  I build software for finance: tools that turn messy financial data into clear decisions.
+  I build software and AI-powered tools, often for finance, that turn messy data into clear decisions.
 </p>
 
 <p align="center">
@@ -58,8 +58,10 @@
 
 ### What I'm interested in
 
-Fintech · quantitative finance · data-driven tools that make financial work faster and more accurate.
+- 🤖 **Applied AI:** building products on top of LLMs, from automation and retrieval to AI-assisted tools people actually use
+- 🛠️ **Software engineering:** full-stack web apps and well-tested, reliable backend systems
+- 💸 **Fintech:** software that makes financial work faster and more accurate
 
 ---
 
-<p align="center"><i>Open to internship opportunities in software engineering and fintech for Summer 2027.</i></p>
+<p align="center"><i>Open to Summer 2027 internships in software engineering and AI.</i></p>
